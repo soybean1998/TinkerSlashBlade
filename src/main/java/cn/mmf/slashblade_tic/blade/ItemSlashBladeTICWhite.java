@@ -109,7 +109,7 @@ public class ItemSlashBladeTICWhite extends SlashBladeCore {
 	 
 	  @Override
 	  public float damagePotential() {
-	    return 1.1f;
+	    return 0.85f;
 	  }
 
 	  @Override
